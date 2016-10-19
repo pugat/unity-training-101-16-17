@@ -1,4 +1,4 @@
-# pau-ieee-unity-training
+# PAU IEEE CS Unity Training
 # 18-10-2016
 - Unity achives, learn, 
 - Genel Bilgiler(Oyun Motorları,3D Tasarım, Animasyon vs),
@@ -10,8 +10,7 @@
 - Kimler İçin(sıfırdan  Unity)
 - Unity Arayüzü, Inspector, Position ve Rotation, Companentler, Copy,Duplicate vs, Terrain oluşturma ve Doldurma, Asset Store, Console pencereleri, , Import ve Export işlemleri
 
-# derste verilen linkler:
-
+# Derste verilen linkler:
 - https://unity3d.com/get-unity/download/archive
 - https://unity3d.com/learn/tutorials
 - https://docs.unity3d.com/Manual/index.html
