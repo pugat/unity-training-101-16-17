@@ -15,6 +15,14 @@
 - https://unity3d.com/learn/tutorials
 - https://docs.unity3d.com/Manual/index.html
 
+# 25-10-2016
+- 18-10-2016 tarihli eğitimin tekrarı
+- Unity'de C# nasıl kullanılır
+- Oyun Programlamnın genel yapısı
+- C#'daki using, class, field(değişken), fonksiyon gibi terimlerden, neler olduğundan bahsedildi
+- Genel oyun fonksiyonlarından Start ve Update gösterildi 
+
+- BONUS: https://www.acikakademi.com/portal/egitimler/unity.aspx
 #PAU IEEE CS
 - https://www.facebook.com/ieeepaucs/
 - http://tinyurl.com/pauieeecsunity101
