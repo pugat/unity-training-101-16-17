@@ -23,6 +23,7 @@
 - Genel oyun fonksiyonlarından Start ve Update gösterildi 
 
 - BONUS: https://www.acikakademi.com/portal/egitimler/unity.aspx
+
 # PAU IEEE CS
 - https://www.facebook.com/ieeepaucs/
 - http://tinyurl.com/pauieeecsunity101
