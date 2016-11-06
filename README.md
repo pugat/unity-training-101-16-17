@@ -25,7 +25,17 @@
 - BONUS: https://www.acikakademi.com/portal/egitimler/unity.aspx
 
 # 01-11-2016
-- 
+- Assasin.cs Create.cs Enemy.cs
+- Klavyeden giriş almak(Input)
+- Instantiate() fonksiyonu
+- GameObject,Prefab,
+- C# ile Rotate(), Scale(), Translate() işlemleri
+- Vector3(), Lerp() fonksiyonu
+- Destroy() fonksiyonu
+- Random.Range() fonksiyonu
+- OnTriggerEnter() fonksiyonu
+
+- BONUS: https://www.youtube.com/user/sebilgi
 
 # PAU IEEE CS
 - https://www.facebook.com/ieeepaucs/
