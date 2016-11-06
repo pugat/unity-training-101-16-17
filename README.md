@@ -1,5 +1,5 @@
 # `IEEE PAU CS Unity Training`
-<p style='color:red'>This is some red text.</p>
+
 # `18-10-2016`
 - Unity achives, learn, 
 - Genel Bilgiler(Oyun Motorları,3D Tasarım, Animasyon vs),
