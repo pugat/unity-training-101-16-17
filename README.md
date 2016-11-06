@@ -10,7 +10,6 @@
 - Kimler İçin(sıfırdan  Unity)
 - Unity Arayüzü, Inspector, Position ve Rotation, Companentler, Copy,Duplicate vs, Terrain oluşturma ve Doldurma, Asset Store, Console pencereleri, , Import ve Export işlemleri
 
-# Derste verilen linkler:
 - https://unity3d.com/get-unity/download/archive
 - https://unity3d.com/learn/tutorials
 - https://docs.unity3d.com/Manual/index.html
