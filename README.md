@@ -1,5 +1,6 @@
 # IEEE PAU CS Unity Training
-# 18-10-2016
+
+# `18-10-2016`
 - Unity achives, learn, 
 - Genel Bilgiler(Oyun Motorları,3D Tasarım, Animasyon vs),
 - Kullanılacak  Programlar(Unity,Maya,Photoshop,ZBrush) ve Tercih Sebebleri(çoklu platform desteği, ücretsiz,kaynak çok,mobil optimizasyon,), 
@@ -14,7 +15,7 @@
 - https://unity3d.com/learn/tutorials
 - https://docs.unity3d.com/Manual/index.html
 
-# 25-10-2016
+# `25-10-2016`
 - 18-10-2016 tarihli eğitimin tekrarı
 - Unity'de C# nasıl kullanılır
 - Oyun Programlamnın genel yapısı
@@ -23,7 +24,7 @@
 
 - BONUS: https://www.acikakademi.com/portal/egitimler/unity.aspx
 
-# 01-11-2016
+# `01-11-2016`
 - Assasin.cs Create.cs Enemy.cs
 - Klavyeden giriş almak(Input)
 - Instantiate() fonksiyonu
