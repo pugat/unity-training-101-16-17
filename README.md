@@ -1,4 +1,4 @@
-# IEEE PAU CS Unity Training
+# `IEEE PAU CS Unity Training`
 
 # `18-10-2016`
 - Unity achives, learn, 
@@ -37,6 +37,6 @@
 
 - BONUS: https://www.youtube.com/user/sebilgi
 
-# PAU IEEE CS
+# `PAU IEEE CS`
 - https://www.facebook.com/ieeepaucs/
 - http://tinyurl.com/pauieeecsunity101
