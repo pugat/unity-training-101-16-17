@@ -37,6 +37,29 @@
 
 - BONUS: https://www.youtube.com/user/sebilgi
 
+# `29-11-2016`
+- Animation
+- Animator
+- Blend Tree
+- MOCAP
+- BONUS: http://ipisoft.com/
+         https://tr.wikipedia.org/wiki/Hareket_yakalama  
+         https://www.mixamo.com/ 
+         http://www.reallusion.com/iclone/mocap/ 
+         http://brekel.com/  
+         https://developer.microsoft.com/en-us/windows/kinect  
+
+
+# `06-12-2016`
+- Menu
+- Sprite
+- Rigidbody2D
+- OnTriggerEnter2D
+- Collider2D
+- FlappyBird yapımı
+
+
+
 # `PAU IEEE CS`
 - https://www.facebook.com/ieeepaucs/
 - http://tinyurl.com/pauieeecsunity101
