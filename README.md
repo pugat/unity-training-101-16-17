@@ -57,6 +57,18 @@
 - OnTriggerEnter2D
 - Collider2D
 - FlappyBird yapımı
+- BONUS: https://yasirkula.com/2014/05/17/klonluyoruz-unity-3dde-flappy-bird-yapimi/
+
+# `13-12-2016`
+- VersionControl(github - Asset Server(Unity Pro))
+https://unity3d.com/learn/tutorials/topics/cloud-build/creating-your-first-source-control-repository
+- ASO(App Store Optimization)
+https://blog.kissmetrics.com/5-myths-about-aso/
+- Game Optimization
+- APIs
+https://developers.facebook.com/
+/ https://github.com/playgameservices/play-games-plugin-for-unity
+/ https://github.com/googleads/googleads-mobile-unity
 
 
 
