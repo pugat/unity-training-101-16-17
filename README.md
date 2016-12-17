@@ -75,4 +75,3 @@ https://developers.facebook.com/
 # `PAU IEEE CS`
 - https://github.com/PAUGAT
 - https://www.facebook.com/ieeepaucs/
-- http://tinyurl.com/pauieeecsunity101
